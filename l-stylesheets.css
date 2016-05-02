@@ -1,0 +1,105 @@
+body {
+	background-color: #FFFFFF;
+	} 
+hr a{ 
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 18px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: inset;
+    border-width: 0.25px;
+}
+.navbar-default {
+	border-radius: 0;
+    border-color: white;
+	height: 85px;
+	background-color: #FFFFFF;
+	padding-left: 3%;
+	margin: 0;
+	width: 100%;
+    position: fixed;
+    z-index: 1000;
+    white-space: nowrap;
+    text-align: center;
+	}
+li:first-child {
+	margin-left: 200px;
+}
+li {
+  	display:inline;
+	list-style-type: none;
+	padding:0;
+	margin:0;
+	overflow: hidden;
+	border-radius: 0 !important;
+    width: 100%;
+	}
+li a  {
+	font-family: 'Droid Serif', serif;
+	font-size: 19px;
+	letter-spacing: 3px;
+	color: #000000;
+	text-decoration: none;
+	}
+li a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+.jumbotron {
+	background: url("LifestyleBackground.jpg");
+	height: 350px;
+	background-repeat: no-repeat;
+	margin-left: -75px;
+}
+.opportunity {
+	background: rgb(0, 0, 0); /* Fallback for older browsers without RGBA-support */
+    background: rgba(0, 0, 0, 0.5);
+    }
+ h3 {
+	margin-top: 100px;
+	padding-top: 1%;
+	font-family: 'Arapey', serif;
+	font-size: 37px;
+    color: #ffffff;
+    text-align: center;
+}
+h4 {
+	font-size: 28px;
+    letter-spacing: 8px;
+    font-family: 'raleway', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 1%;
+}
+.carpe {
+	text-transform: uppercase;
+    font-size: 50px;
+    font-family: 'droid-serif', serif;
+    font-weight: 400;
+}
+.boston {
+	position: absolute;
+	float: right;
+    height: auto;
+    margin-top: -50%;
+}
+.para { 
+	width: 40%;
+}	
+
+p {
+	font-family: 'raleway', sans-serif;
+	font-size: 15px;
+	text-align:justify;
+	line-height: 18px;
+}
+
+
+
+
+
+
+
+
